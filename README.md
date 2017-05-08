@@ -1,11 +1,11 @@
 # Migratory-shorebird-microbiota
-Data and analysis to go with our article "Gut microbiota of a long-distance migrant demonstrates resistance against environmental microbe incursions", By Alice Risely, David Waite, Bea Ujvari, Marcel Klaassen and Bethany Hoye.
+Data and analysis to go with our article "Gut microbiota of a long-distance migrant demonstrates resistance against environmental microbe incursions", By Alice Risely, David Waite, Bea Ujvari, Marcel Klaassen and Bethany Hoye. To be published somewhere some time...
 
 We do not include sequences here, which can be downloaded from NCBI (SRA accession number SRP106581). This dataset includes only the OTU table generated from sequence analysis within Mothur.
 
 This article describes changes to gut microbiota dynamics in a population of red-necked stint occupying two sites in Victoria, Australia. The two sites are coded as WTP and Flinders. The sub-population at Flinders were captured over three time points (September, January and March). In addition, other important variables examined are bird age and bird ID (some individuals were recaptured).
 
-Please note that I used the Bioconductor package 'Phyloseq' in this analysis, and this will need to be downloaded from Bioconductor prior to analysis (this is included in the code, but sometimes can be problematic to download).
+Please note that I used the Bioconductor package 'Phyloseq' in this analysis, and this will need to be downloaded from Bioconductor prior to analysis (this is included in the code, but sometimes can be problematic to download - it kind of messed up my R settings so be careful).
 
 This project contains the files:
 
