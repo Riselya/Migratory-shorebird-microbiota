@@ -14,7 +14,9 @@ Risely_et_al_shorebird_microbiota.R = The R code which includes all analyses pre
 Source files for OTU analysis:
 
 clean.metadata.csv = this contains the meta-data for each sample analysed
+
 phylo.shared = OTU table
+
 phylo.taxonomy = Taxonomic information for each OTU
 
 miseqR.R = source code downloaded from one of the workflows I followed.
