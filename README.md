@@ -1,5 +1,5 @@
 # Migratory-shorebird-microbiota
-Data and analysis to go with our article "Gut microbiota of a long-distance migrant demonstrates resistance against environmental microbe incursions", By Alice Risely, David Waite, Bea Ujvari, Marcel Klaassen and Bethany Hoye. To be published somewhere some time...
+Data and analysis to go with our article "Gut microbiota of a long-distance migrant demonstrates resistance against environmental microbe incursions", By Alice Risely, David Waite, Bea Ujvari, Marcel Klaassen and Bethany Hoye. To be published somewhere some time... Details TBC.
 
 We do not include sequences here, which can be downloaded from NCBI (SRA accession number SRP106581). This dataset includes only the OTU table generated from sequence analysis within Mothur.
 
