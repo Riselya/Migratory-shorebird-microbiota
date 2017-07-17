@@ -19,6 +19,8 @@ phylo.shared = OTU table
 
 phylo.taxonomy = Taxonomic information for each OTU
 
+phylo.tre = Phylogenetic tree file
+
 miseqR.R = source code downloaded from one of the workflows I followed.
 
 
