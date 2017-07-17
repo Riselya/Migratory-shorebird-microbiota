@@ -73,7 +73,7 @@ moth_merge <- merge_phyloseq(mothur_data, map)
 
 ##import phylogenetic tree
 
-tree<-read.tree("Riseley.otus.pick.rerooted.tre")
+tree<-read.tree("phylo.tre")
 
 ##make tree into phyloseq format
 
