@@ -1,5 +1,6 @@
 # Migratory-shorebird-microbiota
-Data and analysis to go with our article "Gut microbiota of a long-distance migrant demonstrates resistance against environmental microbe incursions", By Alice Risely, David Waite, Bea Ujvari, Marcel Klaassen and Bethany Hoye. To be published somewhere some time... Details TBC.
+Data and analysis to go with our article "Gut microbiota of a long-distance migrant demonstrates resistance against environmental microbe incursions", By Alice Risely, David Waite, Bea Ujvari, Marcel Klaassen and Bethany Hoye. 
+Molecular Ecology 2017 http://onlinelibrary.wiley.com/doi/10.1111/mec.14326/full
 
 We do not include sequences here, which can be downloaded from NCBI (SRA accession number SRP106581). This dataset includes only the OTU table generated from sequence analysis within Mothur.
 
@@ -24,7 +25,7 @@ phylo.tre = Phylogenetic tree file
 miseqR.R = source code downloaded from one of the workflows I followed.
 
 
-Files for SourceTracker analysis:
+Files for SourceTracker analysis (code for this analysis at end of R script):
 
 count_table_filtered.txt = OTU table whereby all OTUs that were present in the negative control were filtered out so that they did not bias analyses (see Methods section in article)
 
