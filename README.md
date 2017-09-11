@@ -36,9 +36,5 @@ metadata_wtp_source.csv = Metadata in SourceTracker format where the source is t
 
 metadata_flind_source.csv = Metadata in SourceTracker format where the source is the Flinders sediment samples
 
-metadata_bird_bird_flind.source.csv = Metadata to compare Flinders birds to WTP birds (top arrow of Fig 2a), using Flinders birds as the source
 
-metadata_bird_bird_wtp.source.csv = Metadata to compare WTP birds to Flinders birds (top arrow), using WTP birds as the source
-
-metadata_env_env.csv = Metadata to compare env samples to each other (bottom arrow)
 
