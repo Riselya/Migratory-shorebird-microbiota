@@ -24,15 +24,21 @@ susceptibility.tre = Phylogenetic tree file
 
 miseqR.R = source code downloaded from one of the workflows I followed.
 
+SOURCETRACKER ANLYSIS
 
 Files for SourceTracker analysis (code for this analysis embedded in susceptibility.R script):
+
 Sourcetracker.R = This is the source code for the Bayesian analysis. Please note these analyses take several hours to run.
 
 count_table_filtered.txt = OTU table whereby all OTUs that were present in the negative control were filtered out so that they did not bias analyses (see Methods section in article)
 
 metadata_wtp_source.csv = Metadata in SourceTracker format where the source is the WTP sediment samples
+
 metadata_flind_source.csv = Metadata in SourceTracker format where the source is the Flinders sediment samples
+
 metadata_bird_bird_flind.source.csv = Metadata to compare Flinders birds to WTP birds (top arrow of Fig 2a), using Flinders birds as the source
+
 metadata_bird_bird_wtp.source.csv = Metadata to compare WTP birds to Flinders birds (top arrow), using WTP birds as the source
+
 metadata_env_env.csv = Metadata to compare env samples to each other (bottom arrow)
 
