@@ -2,7 +2,7 @@
 Data and analysis to go with our article "Gut microbiota of a long-distance migrant demonstrates resistance against environmental microbe incursions", By Alice Risely, David Waite, Bea Ujvari, Marcel Klaassen and Bethany Hoye. 
 Molecular Ecology 2017 http://onlinelibrary.wiley.com/doi/10.1111/mec.14326/full
 
-We do not include sequences here, which can be downloaded from NCBI (SRA accession number SRP106581). This dataset includes only the OTU table generated from sequence analysis within Mothur.
+We do not include sequences here, which can be downloaded from NCBI (SRA accession number SRP106581). This dataset includes only the OTU table generated from sequence analysis within Mothur. 
 
 This article describes changes to gut microbiota dynamics in a population of red-necked stint occupying two sites in Victoria, Australia. The two sites are coded as WTP and Flinders. The sub-population at Flinders were captured over three time points (September, January and March). In addition, other important variables examined are bird age and bird ID (some individuals were recaptured).
 
@@ -10,7 +10,7 @@ Please note that I used the Bioconductor package 'Phyloseq' in this analysis, an
 
 This project contains the files:
 
-susceptibility.R = The R code which includes all analyses presented in the article, in order of presentation (Figs 1 - 6). If you download all files in this repository and run this code, then everything should work.
+susceptibility.R = The R code which includes all analyses presented in the article, in order of presentation (Figs 1 - 6). If you download all files in this repository and run this code, then everything should work. Please note the only analyses not included here are those that were created using LEFSE GALAXY, not R (Fig 3b and 4c).
 
 Source files for OTU analysis:
 
