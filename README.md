@@ -6,28 +6,33 @@ We do not include sequences here, which can be downloaded from NCBI (SRA accessi
 
 This article describes changes to gut microbiota dynamics in a population of red-necked stint occupying two sites in Victoria, Australia. The two sites are coded as WTP and Flinders. The sub-population at Flinders were captured over three time points (September, January and March). In addition, other important variables examined are bird age and bird ID (some individuals were recaptured).
 
-Please note that I used the Bioconductor package 'Phyloseq' in this analysis, and this will need to be downloaded from Bioconductor prior to analysis (this is included in the code, but sometimes can be problematic to download - it kind of messed up my R settings so be careful).
+Please note that I used the Bioconductor package 'Phyloseq' in this analysis, and this will need to be downloaded from Bioconductor prior to analysis (this is included in the code). In addition, I use SourceTracker package to estimate stint OTU sourcing from environmental samples.
 
 This project contains the files:
 
-Risely_et_al_shorebird_microbiota.R = The R code which includes all analyses presented in the article. 
+susceptibility.R = The R code which includes all analyses presented in the article, in order of presentation (Figs 1 - 6). If you download all files in this repository and run this code, then everything should work.
 
 Source files for OTU analysis:
 
-clean.metadata.csv = this contains the meta-data for each sample analysed
+susceptibility.metadata.csv = this contains the meta-data for each sample analysed
 
-phylo.shared = OTU table
+susceptibility.shared = OTU table
 
-phylo.taxonomy = Taxonomic information for each OTU
+susceptibility.taxonomy = Taxonomic information for each OTU
 
-phylo.tre = Phylogenetic tree file
+susceptibility.tre = Phylogenetic tree file
 
 miseqR.R = source code downloaded from one of the workflows I followed.
 
 
-Files for SourceTracker analysis (code for this analysis at end of R script):
+Files for SourceTracker analysis (code for this analysis embedded in susceptibility.R script):
+Sourcetracker.R = This is the source code for the Bayesian analysis. Please note these analyses take several hours to run.
 
 count_table_filtered.txt = OTU table whereby all OTUs that were present in the negative control were filtered out so that they did not bias analyses (see Methods section in article)
 
 metadata_wtp_source.csv = Metadata in SourceTracker format where the source is the WTP sediment samples
 metadata_flind_source.csv = Metadata in SourceTracker format where the source is the Flinders sediment samples
+metadata_bird_bird_flind.source.csv = Metadata to compare Flinders birds to WTP birds (top arrow of Fig 2a), using Flinders birds as the source
+metadata_bird_bird_wtp.source.csv = Metadata to compare WTP birds to Flinders birds (top arrow), using WTP birds as the source
+metadata_env_env.csv = Metadata to compare env samples to each other (bottom arrow)
+
