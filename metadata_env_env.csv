@@ -1,0 +1,5 @@
+SampleID,Group,SourceSink,Env
+F1,Flind_env,source,soil
+F2,Flind_env,source,soil
+WTP1,WTP_env,sink,soil
+WTP2,WTP_env,sink,soil

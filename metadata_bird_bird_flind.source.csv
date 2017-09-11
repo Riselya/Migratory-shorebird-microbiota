@@ -1,0 +1,95 @@
+SampleID,Group,site,month,age,bird_id,type,Recap,Recap_num,replicate,remove_replicate,weight,wing,hb,SourceSink,Env
+8634,8634,Flinders,September,Adult,3655828,stint,Yes,1,No,No,30,,,source,bird
+8638,8638,Flinders,September,Adult,3686359,stint,No,,No,No,28,,,source,bird
+8639,8639,Flinders,September,Adult,3686361,stint,Yes,1,Yes,No,31,,,source,bird
+8644,8644,Flinders,September,Adult,3657909,stint,No,,No,No,27,,,source,bird
+8645,8645,Flinders,September,Adult,3686362,stint,Yes,1,No,No,29,,,source,bird
+8646,8646,Flinders,September,Adult,3686248,stint,No,,No,No,32,,,source,bird
+8649,8649,Flinders,September,Adult,3686297,stint,Yes,1,No,No,27,,,source,bird
+8655,8655,Flinders,September,Second year,3686369,stint,No,,No,No,31,,,source,bird
+8657,8657,Flinders,September,Adult,3686258,stint,Yes,1,No,No,28,,,source,bird
+8658,8658,Flinders,September,Second year,3686371,stint,No,,No,No,29,,,source,bird
+8659,8659,Flinders,September,Adult,3657926,stint,No,,No,No,27,,,source,bird
+8660,8660,Flinders,September,Adult,3690503,stint,No,,No,No,29,,,source,bird
+8662,8662,Flinders,September,Adult,3655831,stint,No,,No,No,27,,,source,bird
+8663,8663,Flinders,September,Second year,3686363,stint,No,,No,No,27,,,source,bird
+8665,8665,Flinders,September,Second year,3686377,stint,No,,No,No,25,,,source,bird
+8667,8667,Flinders,September,Second year,3686272,stint,No,,No,No,28,,,source,bird
+8671,8671,Flinders,September,Adult,3686241,stint,No,,No,No,29,,,source,bird
+8672,8672,Flinders,September,Second year,3686372,stint,Yes,1,No,No,30,,,source,bird
+8674,8674,Flinders,September,Second year,3690507,stint,No,,No,No,27,,,source,bird
+8675,8675,Flinders,September,Second year,3686378,stint,No,,No,No,28,,,source,bird
+8677,8677,Flinders,September,Second year,3686368,stint,No,,No,No,32,,,source,bird
+8679,8679,Flinders,September,Second year,3690505,stint,Yes,1,No,No,28,,,source,bird
+8680,8680,Flinders,September,Adult,3685834,stint,No,,No,No,29,,,source,bird
+8682,8682,Flinders,September,Adult,3685691,stint,No,,No,No,30,,,source,bird
+8683,8683,Flinders,September,Second year,3686383,stint,Yes,1,No,No,24,,,source,bird
+8684,8684,Flinders,September,Second year,3686373,stint,No,,No,No,26,,,source,bird
+8685,8685,Flinders,September,Adult,3657736,stint,Yes,1,No,No,27,,,source,bird
+8686,8686,Flinders,September,Second year,3686375,stint,No,,No,No,28,,,source,bird
+8688,8688,Flinders,September,Second year,3686380,stint,No,,No,No,26,,,source,bird
+8689,8689,Flinders,September,Second year,3686376,stint,Yes,1,No,No,28,,,source,bird
+9180,9180,WTP,December,Unknown,3692414,stint,No,,No,No,34,,,sink,bird
+9181,9181,WTP,December,Unknown,3686484,stint,No,,No,No,33,,,sink,bird
+9185,9185,WTP,December,Unknown,3675374,stint,No,,No,No,31,,,sink,bird
+9186,9186,WTP,December,Unknown,3692336,stint,No,,No,No,30,,,sink,bird
+9187,9187,WTP,December,Unknown,3692404,stint,No,,No,No,30,,,sink,bird
+9188,9188,WTP,December,Unknown,3692334,stint,No,,No,No,32,,,sink,bird
+9191,9191,WTP,December,Unknown,3692405,stint,No,,No,No,33,,,,
+9192,9192,WTP,December,Unknown,3692411,stint,No,,Yes,No,31,,,sink,bird
+9193,9193,WTP,December,Unknown,3689801,stint,No,,No,No,32,,,sink,bird
+9194,9194,WTP,December,Unknown,3692407,stint,No,,No,No,32,,,sink,bird
+9196,9196,WTP,December,Unknown,3688793,stint,No,,No,No,33,,,sink,bird
+9197,9197,WTP,December,Unknown,3692412,stint,No,,No,No,31,,,sink,bird
+9200,9200,WTP,December,Juvenile,3692403,stint,No,,No,No,27,,,sink,bird
+9201,9201,WTP,December,Juvenile,3692362,stint,No,,No,No,27,,,sink,bird
+9202,9202,WTP,December,Juvenile,3692352,stint,No,,No,No,35,,,sink,bird
+9203,9203,WTP,December,Unknown,3688458,stint,No,,No,No,29,,,sink,bird
+9204,9204,WTP,December,Juvenile,3692349,stint,No,,No,No,30,,,sink,bird
+9205,9205,WTP,December,Juvenile,3692343,stint,No,,No,No,26,,,sink,bird
+9207,9207,WTP,December,Juvenile,3692363,stint,No,,No,No,30,,,sink,bird
+9212,9212,WTP,December,Juvenile,3692338,stint,No,,No,No,35,,,sink,bird
+9236,9236,Flinders,January,Juvenile,3692752,stint,No,,No,No,28,107,43,source,bird
+9239,9239,Flinders,January,Juvenile,3692758,stint,No,,No,No,30,102,40.7,source,bird
+9240,9240,Flinders,January,Adult,3690501,stint,No,,No,No,28,103,38.4,source,bird
+9248,9248,WTP,December,Juvenile,3692379,stint,No,,No,No,,,,sink,bird
+9251,9251,WTP,December,Juvenile,3692536,stint,No,,No,No,,,,sink,bird
+9258,9258,WTP,December,Juvenile,3692398,stint,No,,No,No,,,,sink,bird
+9259,9259,WTP,December,Juvenile,3692383,stint,No,,No,No,,,,sink,bird
+9260,9260,WTP,December,Juvenile,3692550,stint,No,,No,No,,,,sink,bird
+9268,9268,WTP,December,Juvenile,3692567,stint,No,,No,No,,,,sink,bird
+9311,9311,Flinders,January,Unknown,3692745,stint,Yes,1,No,No,27,,40.1,source,bird
+9312,9312,Flinders,January,Unknown,3657916,stint,Yes,1,No,No,34,,41.1,source,bird
+9313,9313,Flinders,January,Second year,3690505,stint,Yes,2,No,No,31,,40.4,source,bird
+9314,9314,Flinders,January,Juvenile,3692746,stint,No,,No,No,29,105,39.5,source,bird
+9316,9316,Flinders,January,Juvenile,3692747,stint,No,,No,No,29,104,40.2,source,bird
+9318,9318,Flinders,January,Adult,3611876,stint,No,,No,No,30,108,41,source,bird
+9319,9319,Flinders,January,Adult,3686297,stint,Yes,2,No,No,31,110,40.5,source,bird
+9320,9320,Flinders,January,Juvenile,3692757,stint,No,,No,No,28,100,38.3,source,bird
+9321,9321,Flinders,January,Juvenile,3692749,stint,No,,No,No,31,108,39.5,source,bird
+9323,9323,Flinders,January,Adult,3686361,stint,Yes,2,No,No,28,,40.2,source,bird
+9400,9400,Flinders,March,Adult,3655828,stint,Yes,2,No,No,33,102,39,source,bird
+9406,9406,Flinders,March,Juvenile,3693211,stint,No,,No,No,31,103,38.6,source,bird
+9407,9407,Flinders,March,Unknown,3693210,stint,No,,No,No,32,107,39.6,source,bird
+9431,9431,Flinders,March,Unknown,3693205,stint,No,,No,No,34,109,38.9,source,bird
+9432,9432,Flinders,March,Unknown,3657916,stint,Yes,2,No,No,34,113,40.8,source,bird
+9435,9435,Flinders,March,Unknown,3693203,stint,No,,No,No,31,107,41,source,bird
+9436,9436,Flinders,March,Unknown,3692745,stint,Yes,2,No,No,31,104,39.8,source,bird
+9437,9437,Flinders,March,Second year,3690505,stint,Yes,3,No,No,32,107,40.3,source,bird
+9439,9439,Flinders,March,Adult,3657736,stint,Yes,2,No,No,29,109,39.3,source,bird
+9442,9442,Flinders,March,Adult,3686258,stint,Yes,2,No,No,38,109,42.2,source,bird
+9443,9443,Flinders,March,Adult,3686297,stint,Yes,3,No,No,36,101.3,38.9,source,bird
+9446,9446,Flinders,March,Unknown,3693208,stint,No,,No,No,29,105,38.9,source,bird
+9448,9448,Flinders,March,Second year,3686383,stint,Yes,2,No,No,29,106,37.4,source,bird
+9449,9449,Flinders,March,Unknown,3693207,stint,No,,No,No,34,107,41.9,source,bird
+9450,9450,Flinders,March,Second year,3686376,stint,Yes,2,No,No,31,109,40.3,source,bird
+9451,9451,Flinders,March,Adult,3686362,stint,Yes,2,No,No,32,109,40.8,source,bird
+9452,9452,Flinders,March,Second year,3686372,stint,Yes,2,No,No,32,111,40.6,source,bird
+9453,9453,Flinders,March,Juvenile,3693206,stint,No,,No,No,30,105,38.8,source,bird
+8639_2,8639,Flinders,September,Adult,3686361,stint,Yes,1,Yes,Yes,31,,,,
+9192_2,9192,WTP,December,Juvenile,3692411,stint,No,,Yes,Yes,31,,,,
+F1,F1,Flinders,March,na,na,env,No,,Yes,No,,,,,
+F2,F2,Flinders,March,na,na,env,No,,Yes,No,,,,,
+Neg,Neg,na,na,na,na,neg,na,,No,No,,,,,
+WTP1,W1,WTP,December,na,na,env,No,,No,No,,,,,
+WTP2,W2,WTP,December,na,na,env,No,,No,No,,,,,
